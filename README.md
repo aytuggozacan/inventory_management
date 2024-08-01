@@ -1,10 +1,10 @@
-### Inventory Management System - Grocery4All
+# Inventory Management System - Grocery4All
 
 Welcome to Grocery4All Inventory Management System! This program allows you to
 manage your inventory efficiently, track transactions, and analyze financial metrics such as
 revenue, costs, and profit.
 
-# Features
+### Features
 
 - Add a New Product: Easily add new products to your inventory with details such as ID,
 name, quantity, purchasing price, and selling price.
@@ -19,9 +19,9 @@ name, quantity, purchasing price, and selling price.
 - Total Inventory Value
 - Clear All Data: Clear all inventory, transactions, costs, and revenue (with user confirmation).
  
-# Prerequisites
+### Prerequisites
 - Python 3.x
 - Colorama (for colored terminal output)
   
-# Usage
+### Usage
 Please run executable grocery4all file in the dist file.
